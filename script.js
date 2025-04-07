@@ -13,6 +13,8 @@ const animationThreshold = {
 
 let isScrollComplete = false;
 
+// This is a comment
+
 function handleScroll() {
     if (isScrollComplete) return;
 
