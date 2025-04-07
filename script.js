@@ -7,8 +7,8 @@ const sibling = section.nextElementSibling;
 
 const animationThreshold = {
     heading: 0.05,
-    subheading: 0.60,
-    image: 0.90
+    subheading: 0.50,
+    image: 0.70
 };
 
 let isScrollComplete = false;
